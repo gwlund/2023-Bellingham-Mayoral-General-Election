@@ -1,7 +1,8 @@
 # 2023-Bellingham-Mayoral-General-Election
 Analysis by precinct of the Bellingham Mayoral election between Kim Lund and Seth Fleetwood.
+Author: Gil Lund
 
-Fastest way to provision jupyter notebook is to use github codespaces through the Code button.  Once environment spins up then configure kernel and setup python to 3.10.8.  Lastly, ```pip install geopandas``` from the terminal and then run the notebook.
+Fastest way to provision jupyter notebook is to use github codespaces through the Code button.  Once environment spins up then configure kernel and point the notebook to python 3.10.8 install.  Lastly, ```pip install geopandas``` from the codesapce terminal and then run the notebook.  Feel free to log your issues and questions.
 
 Here is what the codespace IDE looks like
 ![Code Space](code-space-ui.png)
